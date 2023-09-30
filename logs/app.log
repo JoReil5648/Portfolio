@@ -1,0 +1,2 @@
+18.09.2023 06:12:08\nFile: C:\OSPanel\domains\Portfolio\auth.php\nLine: 7\nError Code: 2002\nError: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for localhos failed: Этот хост неизвестен. \nTrace: #0 C:\OSPanel\domains\Portfolio\auth.php(7): PDO->__construct()
+#1 {main}\n
